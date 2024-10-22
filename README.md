@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]! 
+# 👋 Hello, I'm Mauricio Xavier! 
 
 Welcome to my GitHub profile! I’m a passionate **Software Engineering student** nearing the completion of my degree, with a strong technical foundation complemented by my previous **Systems Analyst degree**. My journey in technology has equipped me with a broad set of skills and experiences across web development, software engineering principles, and various specialized fields. I’m excited to apply my expertise to real-world projects and contribute to innovative solutions.
 
@@ -7,37 +7,26 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineering student*
    - **Computer Engineering Student at Facultad de Ingenieria, UdelaR** 
    - **Systems Analyst Degree**
 
-## 💻 Tech Stack
-- **Languages**: 
-  - 🌐 JavaScript 
-  - 🐍 Python 
-  - ☕ Java 
-  - 💻 C++
-  
-- **Frontend Libraries**: 
-  - ⚛️ React 
-  - 🌟 Next.js 
-  - 🎨 Tailwind CSS 
-
-- **Backend**: 
-  - 🚀 Node.js 
-  - 🐍 Django 
-
-- **Databases**: 
-  - 🗄️ PostgreSQL 
-  - 📦 MongoDB 
-
+## 💻 Technologies I've Worked With
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+### Frontend Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+
+### Backend Frameworks
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 
 ## 💡 What I’ve Been Up To
 Throughout my academic career, I’ve worked on a variety of projects that have allowed me to apply my theoretical knowledge to practical scenarios. These include:
