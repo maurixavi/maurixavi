@@ -8,25 +8,30 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineering student*
    - **Systems Analyst Degree**
 
 ## 💻 Technologies I've Worked With
-### Languages
+#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
-### Frontend Libraries & Frameworks
+#### Frontend Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-### Backend Frameworks
+#### Backend Frameworks
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 
-### Databases
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### 📊 Technology Usage
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maurixavi&layout=compact&theme=dark)
+
 
 ## 💡 What I’ve Been Up To
 Throughout my academic career, I’ve worked on a variety of projects that have allowed me to apply my theoretical knowledge to practical scenarios. These include:
